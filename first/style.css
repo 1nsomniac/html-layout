@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  background-color: #e0e0e0;
+}
+.header {
+  background-color: #4c4c4c;
+  width: 100vw;
+  height: 20vh;
+
+}
+.center {
+  width: 70vw;
+  height: 68vh;
+  background-color: #efefef;
+  margin: 0 15vw 0 15vw;
+}
+.footer {
+  width: 70vw;
+  height: 12vh;
+  background-color: #000;
+  margin: 0 15vw 0 15vw;
+}

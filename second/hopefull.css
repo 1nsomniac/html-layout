@@ -1,0 +1,30 @@
+
+body{
+  margin:0;
+}
+.leftColumn {
+  background-color: blue;
+    height: 100vh;
+}
+.midColumn {
+  background-color: green;
+    height: 100vh;
+}
+.rightColumn {
+  background-color: red;
+    height: 80vh;
+}
+.leftColumn,
+.midColumn,
+.rightColumn {
+  float: left;
+  width: calc(100%/3);
+
+}
+.imagePlaceholder {
+float: left;
+  width: calc(100%/3);
+  height: 20vh;
+
+  background-color: orange;
+}

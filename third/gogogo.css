@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+}
+.header {
+  background-color: #c6c6c6;
+  width: 100vw;
+  height: 12vh;
+  margin: 0;
+}
+.box {
+  float: left;
+  height: 10vh;
+  width: 10vh;
+  margin: 1vh 2vw;
+}
+.blue {
+  background-color: blue;
+}
+.teal {
+  background-color: teal;
+}
+.green {
+  background-color: green;
+}
+.yellow {
+  background-color: yellow;
+}
+.bigContainer{
+  height: 88vh;
+  width: 100vw;
+  float: left;
+}
+.container{
+  float: left;
+  height: 28vh;
+  width: 100vw;
+}
+.body {
+  box-sizing: border-box;
+  height: 100%;
+  width: 100%;
+  padding: 2% 5vw;
+}
+.bar {
+  float: left;
+  height: 15vh;
+  width: 100vw;
+}
